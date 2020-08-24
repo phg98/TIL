@@ -1,6 +1,14 @@
 # TIL
 Today I Learned...
 
+* 2020/8/24 : 
+  * Github actions의 환경변수 설정법
+    * .github/workflow/nodejs.yml 파일에 하기 추가
+      ```yml
+      env:
+        NODE_ENV: development
+      ```
+  * Wakatime 설치 : 코딩시간 자동기록
 * 2020/8/23 : express-rate-limit 사용, heroku에 p5.js 예제 배포 (https://p5pattern.herokuapp.com/)
   * leetcode daily 
     * split() : 스트링을 배열로 나눈다.
