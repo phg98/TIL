@@ -9,6 +9,8 @@ Today I Learned...
         NODE_ENV: development
       ```
   * Wakatime 설치 : 코딩시간 자동기록
+  * leetcode daily
+    * 재귀함수,이진트리 처리 더 익숙해져야해...
 * 2020/8/23 : express-rate-limit 사용, heroku에 p5.js 예제 배포 (https://p5pattern.herokuapp.com/)
   * leetcode daily 
     * split() : 스트링을 배열로 나눈다.
