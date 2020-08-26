@@ -1,6 +1,12 @@
 # TIL
 Today I Learned...
 
+* 2020/8/26 :
+  * leetcode merge sorted array : ListNode 핸들링 아직 익숙하지 않다. 첫 노드를 dummy로 만들면 처리가 편하다.
+  
+* 2020/8/25 :
+  * leetcode minimum cost of ticket 실패. Dynamic Programming 공부 필요해...
+  
 * 2020/8/24 : 
   * Github actions의 환경변수 설정법
     * .github/workflow/nodejs.yml 파일에 하기 추가
