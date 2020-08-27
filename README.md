@@ -1,6 +1,10 @@
 # TIL
 Today I Learned...
 
+* 2020/8/27 :
+  * PWA 구글 코드랩 : 팀정보 만들어보자
+  * AWS Builder 세미나에서 Amplify 흥미있다. heroku와 비슷? 한번 해보자.
+  
 * 2020/8/26 :
   * leetcode merge sorted array : ListNode 핸들링 아직 익숙하지 않다. 첫 노드를 dummy로 만들면 처리가 편하다.
   
