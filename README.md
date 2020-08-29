@@ -1,6 +1,16 @@
 # TIL
 Today I Learned...
 
+* 2020/8/29 토
+  * github과 heroku 연동. github에 커밋하면 heroku에 자동디플로이 (https://p5pattern.herokuapp.com)
+   * heroku의 프로젝트의 deploy탭에서 간단히 설정 가능하다.
+  * glitch에서 github으로 코드 보내기 
+   * Tools->Import&Export->project선택
+   
+* 2020/8/28 금
+  * leetcode rand10() with ran7() 2시간만에 성공 ㅠㅠ😂
+  * glitch.com 재미있다. 
+  
 * 2020/8/27 :
   * PWA 구글 코드랩 : 팀정보 만들어보자
   * AWS Builder 세미나에서 Amplify 흥미있다. heroku와 비슷? 한번 해보자.
