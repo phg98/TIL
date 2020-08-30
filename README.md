@@ -1,6 +1,20 @@
 # TIL
 Today I Learned...
 
+## 해볼것
+  * [ ] heroku에 heartbeat올려보기
+    * [ ] 죽지않게 5분마다 호출하기
+  * [ ] PWA : hpminfo에 아이콘, 이름 넣기
+  * [ ] landingPage 제대로 동작하기
+  * [ ] amplify 써보기
+  * [ ] p5pattern에 다운로드 넣기
+  * [ ] p5pattern에 파라미터 입력받기
+  * [ ] netlify 써보기
+  * [ ] glitch에 heartbeat올려보기
+  * [ ] 유튜브 스트리밍 이름정하기
+  * [ ] 유튜브 스트리밍에 목소리 넣어보기
+  * [ ] 유튜브 스트리밍에 웹캠 사용
+
 * 2020/8/29 토
   * github과 heroku 연동. github에 커밋하면 heroku에 자동디플로이 (https://p5pattern.herokuapp.com)
    * heroku의 프로젝트의 deploy탭에서 간단히 설정 가능하다.
