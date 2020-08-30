@@ -23,7 +23,7 @@ Today I Learned...
    
 * 2020/8/28 금
   * leetcode rand10() with ran7() 2시간만에 성공 ㅠㅠ😂
-  * glitch.com 재미있다. 
+  * :heavy_check_mark: glitch.com 재미있다. 
   
 * 2020/8/27 :
   * PWA 구글 코드랩 : 팀정보 만들어보자
