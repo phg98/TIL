@@ -14,9 +14,13 @@ Today I Learned...
   * [ ] 유튜브 스트리밍 이름정하기
   * [ ] 유튜브 스트리밍에 목소리 넣어보기
   * [ ] 유튜브 스트리밍에 웹캠 사용
+  * 알고리즘 공부
+    * [ ] 이진트리
+    * [ ] 공약수
 
 * 2020/8/31 월
   * Dynamic Programming 공부 : 유튜브 영상 참고 (https://www.youtube.com/watch?v=vRFXpqWDbRU)
+  * leetcode 실패! Remove Node from BST : 이진트리 공부 필요해.
   
 * 2020/8/29 토
   * github과 heroku 연동. github에 커밋하면 heroku에 자동디플로이 (https://p5pattern.herokuapp.com)
