@@ -15,6 +15,9 @@ Today I Learned...
   * [ ] 유튜브 스트리밍에 목소리 넣어보기
   * [ ] 유튜브 스트리밍에 웹캠 사용
 
+* 2020/8/31 월
+  * Dynamic Programming 공부 : 유튜브 영상 참고 (https://www.youtube.com/watch?v=vRFXpqWDbRU)
+  
 * 2020/8/29 토
   * github과 heroku 연동. github에 커밋하면 heroku에 자동디플로이 (https://p5pattern.herokuapp.com)
    * heroku의 프로젝트의 deploy탭에서 간단히 설정 가능하다.
