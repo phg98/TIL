@@ -18,6 +18,9 @@ Today I Learned...
     * [ ] 이진트리
     * [ ] 공약수
 
+* 2020/9/1  화
+  * 알고리즘 공부 : 그리디, 구현 : 유튜브 나동빈채널 https://www.youtube.com/c/dongbinna/videos
+  
 * 2020/8/31 월
   * Dynamic Programming 공부 : 유튜브 영상 참고 (https://www.youtube.com/watch?v=vRFXpqWDbRU)
   * leetcode 실패! Remove Node from BST : 이진트리 공부 필요해.
