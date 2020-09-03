@@ -4,7 +4,6 @@ Today I Learned...
 ## 해볼것
   * [ ] heroku에 heartbeat올려보기
     * [ ] 죽지않게 5분마다 호출하기
-  * [ ] PWA : hpminfo에 아이콘, 이름 넣기
   * [ ] landingPage 제대로 동작하기
   * [ ] amplify 써보기
   * [ ] p5pattern에 다운로드 넣기
@@ -17,6 +16,16 @@ Today I Learned...
   * 알고리즘 공부
     * [ ] 이진트리
     * [ ] 공약수
+    
+## TIL
+* 2020/9/3 목
+  * :heavy_check_mark:  PWA : hpminfo에 아이콘, 이름 넣기 😎
+  * glitch.com에서 로컬PC로 git clone 및 수정후 push : 그냥은 안되고 glitch 터미널에서 하기 명령 입력해야함.
+    ```
+    git config receive.denyCurrentBranch updateInstead
+    refresh
+    ```
+  * leetcode easy 2개 품. 유튜브 동영상 저장 : 해상도 조정함.
 
 * 2020/9/1  화
   * 알고리즘 공부 : 그리디, 구현 : 유튜브 나동빈채널 https://www.youtube.com/c/dongbinna/videos
