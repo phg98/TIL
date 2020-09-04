@@ -18,6 +18,11 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/4 금
+  * OBS Studio : 
+    * 크로마키 필터 설정 : 비디오 카메라 소스 우클릭후 필터 선택, 크로마키 선택, 색상 결정 (Custome에서 픽커사용가능)
+    * OBS출력을 Skype로 연결 : OBS에서 프러그인 다운받아서 설치, OBS '도구'메뉴에서 Virtual Cam 선택하여 'Start', Skype설정에서 입력을 'OBS Virtual Cam'선택.
+    
 * 2020/9/3 목
   * :heavy_check_mark:  PWA : hpminfo에 아이콘, 이름 넣기 😎
   * glitch.com에서 로컬PC로 git clone 및 수정후 push : 그냥은 안되고 glitch 터미널에서 하기 명령 입력해야함.
