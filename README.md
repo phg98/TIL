@@ -18,6 +18,14 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/5 토
+  * heroku heartbeat 문제 해결 : DB에 접속IP제한걸려 있었음.
+    * DB connect에 에러처리를 안해서 해결에 오래 걸렸다... 에러처리 꼭 하자.
+    * MongoDB Atlas에 IP로만 리스트등록이 가능하다. heroku는 실행될때마다 ip달라지는데. 해결방법못찾아서 일단 모든 IP 접속가능 설정함. (0.0.0.0/0)
+    * heroku 재부팅은
+      ``` heroku ps:restart -a APP_NAME ```
+    * heroku timezone설정 : 세팅에서 환경변수에 TZ, Asiz/Seoul 추가.
+      
 * 2020/9/4 금
   * OBS Studio : 
     * 크로마키 필터 설정 : 비디오 카메라 소스 우클릭후 필터 선택, 크로마키 선택, 색상 결정 (Custome에서 픽커사용가능)
