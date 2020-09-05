@@ -5,6 +5,7 @@ Today I Learned...
   * [ ] heroku에 heartbeat올려보기
     * [ ] 죽지않게 5분마다 호출하기
   * [ ] landingPage 제대로 동작하기
+    * [ ] **js파일 새버전이 적용안되는 문제**
   * [ ] amplify 써보기
   * [ ] p5pattern에 다운로드 넣기
   * [ ] p5pattern에 파라미터 입력받기
@@ -25,6 +26,7 @@ Today I Learned...
     * heroku 재부팅은
       ``` heroku ps:restart -a APP_NAME ```
     * heroku timezone설정 : 세팅에서 환경변수에 TZ, Asiz/Seoul 추가.
+    * **html과 js파일을 수정해서 업뎃했는데 js파일이 여전히 구버전이 사용되는 문제 아직 해결 못했다.**
       
 * 2020/9/4 금
   * OBS Studio : 
