@@ -19,6 +19,9 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/6 일
+  * 크로마키 : ChromaCam프로그램 깔아보았는데 너무 느리고 카메라 연결이 되다 안되다 하여 포기.
+  
 * 2020/9/5 토
   * heroku heartbeat 문제 해결 : DB에 접속IP제한걸려 있었음.
     * DB connect에 에러처리를 안해서 해결에 오래 걸렸다... 에러처리 꼭 하자.
@@ -26,7 +29,8 @@ Today I Learned...
     * heroku 재부팅은
       ``` heroku ps:restart -a APP_NAME ```
     * heroku timezone설정 : 세팅에서 환경변수에 TZ, Asiz/Seoul 추가.
-    * **html과 js파일을 수정해서 업뎃했는데 js파일이 여전히 구버전이 사용되는 문제 아직 해결 못했다.**
+    * ~~**html과 js파일을 수정해서 업뎃했는데 js파일이 여전히 구버전이 사용되는 문제 아직 해결 못했다.**~~
+      * 하루지나니까 그냥 되었음. 흐음..
       
 * 2020/9/4 금
   * OBS Studio : 
