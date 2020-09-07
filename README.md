@@ -3,7 +3,6 @@ Today I Learned...
 
 ## 해볼것
   * [ ] heroku에 heartbeat올려보기
-    * [ ] 죽지않게 5분마다 호출하기
   * [ ] landingPage 제대로 동작하기
     * [ ] **js파일 새버전이 적용안되는 문제**
   * [ ] amplify 써보기
@@ -19,6 +18,15 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/7 월
+  * heroku 5분마다 호출하기 : 확인해보니 free 에서는 18시간밖에 안된다. 대신 hobby (7$/month)를 쓰라고 하네. ㅠㅠ😒
+  * 몇가지 서비스 비교해보기
+    * heroku : front, back 모두 지원. 즉 서버가 24시간 동작.근데 무료에서는 30분 안쓰면 꺼진다. 안 꺼지려면 7$/month
+    * netlify : 정적호스팅만. 
+    * vercel(now.sh) : 정적호스팅만.
+    * glitch : 모두 지원. 5분 안쓰면 슬립된다.
+  * leetcode 2개 품 : 자료형마다 크기구하는 함수가 다 다르다. array.length, set.size(), Oject.values(obj).length 
+  
 * 2020/9/6 일
   * 크로마키 : ChromaCam프로그램 깔아보았는데 너무 느리고 카메라 연결이 되다 안되다 하여 포기.
   
