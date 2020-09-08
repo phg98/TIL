@@ -2,9 +2,8 @@
 Today I Learned...
 
 ## 해볼것
-  * [ ] heroku에 heartbeat올려보기
+  * [ ] heroku에 커스텀 도메인 적용해보기
   * [ ] landingPage 제대로 동작하기
-    * [ ] **js파일 새버전이 적용안되는 문제**
   * [ ] amplify 써보기
   * [ ] p5pattern에 다운로드 넣기
   * [ ] p5pattern에 파라미터 입력받기
@@ -19,7 +18,9 @@ Today I Learned...
     
 ## TIL
 * 2020/9/7 월
-  * heroku 5분마다 호출하기 : 확인해보니 free 에서는 18시간밖에 안된다. 대신 hobby (7$/month)를 쓰라고 하네. ㅠㅠ😒
+  * heroku 5분마다 호출하기 : 
+    * 확인해보니 free 에서는 18시간밖에 안된다. 대신 hobby (7$/month)를 쓰라고 하네. ㅠㅠ😒
+    * 핑날려주는 서비스 사용 Kaffeine(https://kaffeine.herokuapp.com/)
   * 몇가지 서비스 비교해보기
     * heroku : front, back 모두 지원. 즉 서버가 24시간 동작.근데 무료에서는 30분 안쓰면 꺼진다. 안 꺼지려면 7$/month
     * netlify : 정적호스팅만. 
