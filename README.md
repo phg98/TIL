@@ -3,6 +3,7 @@ Today I Learned...
 
 ## 해볼것
   * [ ] heroku에 커스텀 도메인 적용해보기
+    * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ
   * [ ] landingPage 제대로 동작하기
   * [ ] amplify 써보기
   * [ ] p5pattern에 다운로드 넣기
@@ -17,6 +18,11 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/8 화
+  * heroku에 커스텀 도메인 적용해보기
+    * 신용카드정보입력후 도메인이름 넣고, Route53에서 CNAME으로 등록하면 된다.
+    * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ
+    
 * 2020/9/7 월
   * heroku 5분마다 호출하기 : 
     * 확인해보니 free 에서는 18시간밖에 안된다. 대신 hobby (7$/month)를 쓰라고 하네. ㅠㅠ😒
