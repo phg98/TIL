@@ -2,6 +2,7 @@
 Today I Learned...
 
 ## 해볼것
+  * [ ] codepen.io 써보기. form validation
   * [ ] heroku에 커스텀 도메인 적용해보기
     * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ
   * [ ] landingPage 제대로 동작하기
