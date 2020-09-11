@@ -2,7 +2,7 @@
 Today I Learned...
 
 ## 해볼것
-  * [ ] codepen.io 써보기. form validation
+  
   * [ ] heroku에 커스텀 도메인 적용해보기
     * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ
   * [ ] landingPage 제대로 동작하기
@@ -19,6 +19,14 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/11 금
+  * [x] codepen.io 써보기. form validation
+  * leetCode 1개성공 2개실패. 이진트리 공부해야겠다.
+  * OBS Studio에 크로마키 스크린 사용하여 필터입혀서 Skype
+
+* 2020/9/10 목
+  * form validation : https://www.youtube.com/watch?v=rsd4FNGTRBw
+  
 * 2020/9/8 화
   * heroku에 커스텀 도메인 적용해보기
     * 신용카드정보입력후 도메인이름 넣고, Route53에서 CNAME으로 등록하면 된다.
