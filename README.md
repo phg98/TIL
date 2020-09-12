@@ -4,14 +4,14 @@ Today I Learned...
 ## 해볼것
   
   * [ ] heroku에 커스텀 도메인 적용해보기
-    * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ
-  * [ ] landingPage 제대로 동작하기
+    * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ  
+  * [x] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
+  * [ ] landingPage 예쁘게 만들기
   * [ ] amplify 써보기
   * [ ] p5pattern에 다운로드 넣기
   * [ ] p5pattern에 파라미터 입력받기
   * [ ] netlify 써보기
   * [ ] glitch에 heartbeat올려보기
-  * [ ] 유튜브 스트리밍 이름정하기
   * [ ] 유튜브 스트리밍에 목소리 넣어보기
   * [ ] 유튜브 스트리밍에 웹캠 사용
   * 알고리즘 공부
@@ -19,6 +19,11 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/12 토
+  * [x] landingPage 제대로 동작하기
+  * shortid 적용 : uuid보다 작은 7~14글자의 id생성기  
+  * [x] 유튜브 스트리밍 이름정하기 : 늅코더 라고 지어봤다.
+  
 * 2020/9/11 금
   * [x] codepen.io 써보기. form validation
   * leetCode 1개성공 2개실패. 이진트리 공부해야겠다.
