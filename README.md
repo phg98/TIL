@@ -5,7 +5,7 @@ Today I Learned...
   
   * [ ] heroku에 커스텀 도메인 적용해보기
     * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ  
-  * [x] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
+  * [ ] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
   * [ ] landingPage 예쁘게 만들기
   * [ ] amplify 써보기
   * [ ] p5pattern에 다운로드 넣기
@@ -23,6 +23,7 @@ Today I Learned...
   * [x] landingPage 제대로 동작하기
   * shortid 적용 : uuid보다 작은 7~14글자의 id생성기  
   * [x] 유튜브 스트리밍 이름정하기 : 늅코더 라고 지어봤다.
+  * landingPage 에러처리 : XHR 결과처리시 onError는 네트워크문제로 아예 리퀘스트안된경우이고, 결과값이 404등 오는것은 onLoad에서 처리해야 한다.
   
 * 2020/9/11 금
   * [x] codepen.io 써보기. form validation
