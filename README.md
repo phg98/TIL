@@ -19,6 +19,15 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/14 월
+  * 바로가기(.lnk)와 인터넷 바로가기(.url) 공부
+    * lnk는 바이너리 파일이고 내용 복잡해. npm에 windows-shortcut이라는 모듈로 생성가능. 웹 브라우저 지정 가능
+    * url은 텍스트 파일이고 간단해. 근데 반드시 ANSI인코딩으로 저장해야 된다. VS-Code로는 안돼서 2시간 삽질함.ㅠㅠ
+    
+* 2020/9/13 일
+  * 알고리즘 : DFS/BFS 동영상 공부 https://www.youtube.com/watch?v=PqzyFDUnbrY
+  * leetCode 컨테스트 참여 : 4325 / 13291
+  
 * 2020/9/12 토
   * [x] landingPage 제대로 동작하기
   * shortid 적용 : uuid보다 작은 7~14글자의 id생성기  
