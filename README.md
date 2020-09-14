@@ -23,6 +23,15 @@ Today I Learned...
   * 바로가기(.lnk)와 인터넷 바로가기(.url) 공부
     * lnk는 바이너리 파일이고 내용 복잡해. npm에 windows-shortcut이라는 모듈로 생성가능. 웹 브라우저 지정 가능
     * url은 텍스트 파일이고 간단해. 근데 반드시 ANSI인코딩으로 저장해야 된다. VS-Code로는 안돼서 2시간 삽질함.ㅠㅠ
+  * LandingPage수정 : CSS (text-align, word-break, position) 공부
+    * text-align : 가운데 정렬은 center인데 가장 작은 selector에 적용해야 적용된다.
+    * position : 상위 엘리먼트중에 static이 아닌것을 기준으로 한다.
+    * word-break : keep-all 해야 단어 안잘린다.
+  * leetCode 풀기 2문제 :
+    * 간단한 DP는 풀 수 있다. 속도를 높이려면 DP테이블없이 결과값을 변수에 저장. (가능한것만)
+    * 트리는 아직 좀 버벅.
+  * 아샬님 동영상 https://www.youtube.com/watch?v=J7cFGDe21Hg
+    * let을 쓰지 않고 코딩하기? 나중에 해보자.
     
 * 2020/9/13 일
   * 알고리즘 : DFS/BFS 동영상 공부 https://www.youtube.com/watch?v=PqzyFDUnbrY
