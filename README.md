@@ -3,8 +3,7 @@ Today I Learned...
 
 ## 해볼것
   
-  * [ ] heroku에 커스텀 도메인 적용해보기
-    * [ ] 적용은 되었는데 http만 되고 https는 안돼서 작동이 안된다. ㅠㅠ  
+
   * [ ] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
   * [ ] landingPage 예쁘게 만들기
   * [ ] amplify 써보기
@@ -19,6 +18,12 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/16 수
+  * [x] heroku에 커스텀 도메인 적용해보기
+  * :heavy_check_mark: https 적용하기 : 
+    * AWS Certificate Manager로 등록해 보았는데 안된다.ㅠㅠ
+    * freenom에서 새로 도메인 받아서 (heartbeat.ga) CloudFlare에 등록해보니 된다!
+    
 * 2020/9/15 화
   * leetCode 풀기 2문제 : 이진 트리 아직 익숙하지 않다. 동영상 조금 봄...
   
