@@ -3,7 +3,7 @@ Today I Learned...
 
 ## 해볼것
   
-  * [ ] firebase
+  * [ ] firebase 좀 더 써보기
   * [ ] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
   * [ ] landingPage 예쁘게 만들기
   * [ ] amplify 써보기
@@ -19,6 +19,13 @@ Today I Learned...
     
 ## TIL
 * 2020/9/19 토
+  * firebase 써보기 : 
+    * index.html에 sdk붙여넣고
+    * npm install -g firebase
+    * firebase login
+    * firebase init
+    * firebase deploy 하면 된다.
+    * domain연결하여 https도 가능하네. 
   * leetcode contest 3174 / 8750
     * 시간넘어서 javascript->C로 바꿔서 했는데 마찬가지.
     * 중복처리를 없애야 한다.
