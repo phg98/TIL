@@ -3,7 +3,7 @@ Today I Learned...
 
 ## 해볼것
   
-
+  * [ ] firebase
   * [ ] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
   * [ ] landingPage 예쁘게 만들기
   * [ ] amplify 써보기
@@ -18,6 +18,11 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/19 토
+  * leetcode contest 3174 / 8750
+    * 시간넘어서 javascript->C로 바꿔서 했는데 마찬가지.
+    * 중복처리를 없애야 한다.
+    
 * 2020/9/16 수
   * [x] heroku에 커스텀 도메인 적용해보기
   * :heavy_check_mark: https 적용하기 : 
