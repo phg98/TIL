@@ -18,6 +18,10 @@ Today I Learned...
     * [ ] 공약수
     
 ## TIL
+* 2020/9/20 일
+  * leetcode 컨테스트 6344 / 12923
+    * 1문제만 풀었음. 두번째 문제의 sub-array문제 모르겠네.
+    
 * 2020/9/19 토
   * firebase 써보기 : 
     * index.html에 sdk붙여넣고
