@@ -2,7 +2,7 @@
 Today I Learned...
 
 ## 해볼것
-  
+  * [ ] landingPage 설명 이해되게 
   * [ ] firebase 좀 더 써보기
   * [ ] landingPage 보안 처리 (사용자 데이터 밸리데이션, 암호화)
   * [ ] landingPage 예쁘게 만들기
@@ -16,8 +16,15 @@ Today I Learned...
   * 알고리즘 공부
     * [ ] 이진트리
     * [ ] 공약수
+    * [ ] 백트래킹
     
 ## TIL
+* 2020/9/22 화
+  * Carbon(https://carbon.now.sh/) : 소스 코드 예쁘게 이미지 만들어 주는 사이트. 좋네.
+    * 소스코드 복붙하고 '복사'버튼 누르면 이미지로 클립보드 복사된다.
+  * leetcode 2문제 :
+    * DFS/BFS 약간 익숙해짐
+    
 * 2020/9/20 일
   * leetcode 컨테스트 6344 / 12923
     * 1문제만 풀었음. 두번째 문제의 sub-array문제 모르겠네.
