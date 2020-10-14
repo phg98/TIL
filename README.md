@@ -2,7 +2,6 @@
 Today I Learned...
 
 ## 해볼것
-  * [ ] 핵토버페스트 : 다른 페북 그룹(생활코딩, js, jenkins, 에 홍보하기, 유튜브에 홍보하기?
   * [ ] vscode vim에서 커맨드모드시 한글->영문으로 바뀌는 법 알아보자. 윈도우OS에서.
   * [ ] landingPage 설명 이해되게 
   * [ ] firebase 좀 더 써보기
@@ -21,6 +20,14 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2020/10/14 수
+  * hacktoberfest에다가 발표에다가 일이 커져서 신경못썼음. 정신없다...
+  *  :heavy_check_mark: 핵토버페스트 : 다른 페북 그룹(생활코딩, js, jenkins, 에 홍보하기, 유튜브에 홍보하기?
+  *  :heavy_check_mark: 한글날 캠페인 : 한국어 저장소 찾아주기
+    * 근데 반대의견이 일리 있어서 사이트에 반대의견 적었음. 
+  * github에 서명 커밋 하는 법 : 깃헙설명서가 제일 낫다.(https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/managing-commit-signature-verification)
+    * 제일 중요한 것은 : git bash 에서 해야 한다. cmd에서 하면 에러 발생함.ㅠㅠ
+    
 * 2020/9/28 월
   * hacktoberfest : 내가 왜 그랬을까 후회하는 중....
     * 유튭 동영상 두개 올림 : 깃헙 가입 방법, 핵토버페스트 등록 방법. __처음으로 목소리 녹음했다!!!!__
