@@ -20,6 +20,10 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2020/11/01 일
+  * 핵토버페스트가 끝났으니 이제 다시 일상으로 돌아오자 ㅎㅎ
+  * github action 해봄. pytest와 jest로.
+  
 * 2020/10/14 수
   * hacktoberfest에다가 발표에다가 일이 커져서 신경못썼음. 정신없다...
   *  :heavy_check_mark: 핵토버페스트 : 다른 페북 그룹(생활코딩, js, jenkins, 에 홍보하기, 유튜브에 홍보하기?
