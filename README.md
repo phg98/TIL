@@ -20,6 +20,39 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2020/11/24 화
+  * Startup School 동영상 : [How to Talk to Users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
+    * 3 mistakes
+      * we talk about our idea. => You need to talk about specifics around the problem area that you're trying to solve that the user may be going through.
+      * we talk about hypotheticals. =>  Instead, talk about specifics that have already occurred in the user's life.
+      * we talk a lot => really listen.
+    * five great questions that everyone can ask during their early customer interviews.
+      1. What is the hardest part about doing the thing that you're trying to solve?
+        * How do you currently attempt to solve that problem?
+      2. Tell me about the last time that you encountered this problem
+      3. Why was this hard?
+        * you'll also begin to understand how you market your product,
+      4. What, if anything, have you done to try to solve this problem?
+        * figure out whether the problem that you're solving or you're working to solve is even really something that people are already looking for solutions to. 
+        * what are the other competitions out there?
+      5. What don't you love about the solutions that you've already tried?      
+    * Talking to users, three critical phases
+      1. At the idea stage, start with yourself,  talk to friends, just by showing up, Industry events, Take detailed notes 
+      2.  testing your prototype with users phase
+        * Figuring out who will be your best first customer
+        1. how much does this problem cost them today? 
+        2. how frequently do they encounter this problem? 
+        3. how large is their budget for solving this problem?
+      3. The last stage is actually the process of iterating towards product-market fit.
+        * Check 'app Superhumanthe CEO published an amazing blog post'
+        1. a critical question. "How would you feel if you could no longer use Superhuman?" Three answers, very disappointed, somewhat disappointed, not disappointed.
+          * if 40% or more of your user base reports that they would be very disappointed if your product went away on a weekly basis, that that's kind of the signal.
+          * Ask your users for the phone number
+        2. don't design by committee.
+        3. discard bad data
+          1. compliment
+          2. fluff
+        
 * 2020/11/01 일
   * 핵토버페스트가 끝났으니 이제 다시 일상으로 돌아오자 ㅎㅎ
   * github action 해봄. pytest와 jest로.
