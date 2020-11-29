@@ -20,6 +20,17 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2020/11/29 일
+* 2020/11/24 화
+  * Startup School 동영상 : [How to Pitch your Startup](https://www.ycombinator.com/library/6q-how-to-pitch-your-startup)
+    * 3 parts
+      * Problem : Big enough
+      * Solution
+      * Insight : unfair advantage
+    * 
+      * thought deeply about the idea
+      * efficient
+      
 * 2020/11/24 화
   * Startup School 동영상 : [How to Talk to Users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
     * 3 mistakes
