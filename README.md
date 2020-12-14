@@ -20,6 +20,8 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2020/12/14 월
+  * [웹 스토리지: 어디에 저장해야 할까요](https://han41858.tistory.com/54)
 * 2020/11/29 일
 * 2020/11/24 화
   * Startup School 동영상 : [How to Pitch your Startup](https://www.ycombinator.com/library/6q-how-to-pitch-your-startup)
