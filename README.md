@@ -4,7 +4,6 @@ Today I Learned...
 ## 해볼것
   * [ ] google speech to text APi 알아보기
   * [ ] vscode extension 만들어보기
-  * [ ] react 배우기
   * [ ] css 배우기
   * [ ] html 원활히 쓰기
   * [ ] vscode vim에서 커맨드모드시 한글->영문으로 바뀌는 법 알아보자. 윈도우OS에서.
@@ -25,6 +24,9 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+
+* 2021/03/01 월
+  * [ ] react 배우기 https://ko.reactjs.org/docs/components-and-props.html
 * 2021/02/28 일
   * regex 배우기 : 전화번호 /(\(?\d{2,3}\)?[- .]?)?\d{3}[- .]?\d{3,4}[- .]?\d{4}[- .]?/
 * 2020/12/14 월
