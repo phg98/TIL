@@ -2,6 +2,11 @@
 Today I Learned...
 
 ## 해볼것
+  * [ ] google speech to text APi 알아보기
+  * [ ] vscode extension 만들어보기
+  * [ ] react 배우기
+  * [ ] css 배우기
+  * [ ] html 원활히 쓰기
   * [ ] vscode vim에서 커맨드모드시 한글->영문으로 바뀌는 법 알아보자. 윈도우OS에서.
   * [ ] landingPage 설명 이해되게 
   * [ ] firebase 좀 더 써보기
@@ -20,6 +25,8 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2021/02/28 일
+  * regex 배우기 : 전화번호 /(\(?\d{2,3}\)?[- .]?)?\d{3}[- .]?\d{3,4}[- .]?\d{4}[- .]?/
 * 2020/12/14 월
   * [웹 스토리지: 어디에 저장해야 할까요](https://han41858.tistory.com/54)
 * 2020/11/29 일
