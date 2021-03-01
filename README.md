@@ -27,6 +27,9 @@ Today I Learned...
 
 * 2021/03/01 월
   * [ ] react 배우기 https://ko.reactjs.org/docs/components-and-props.html
+    * props : constructor(props){super(props)} <h1>name={props.name}
+    * state : constructor(){this.state={name:'Harry'}}, componentDidMount(), componentWillUnmount(), this.setState({name:'newName'})
+    * https://ko.reactjs.org/docs/handling-events.html 여기까지
 * 2021/02/28 일
   * regex 배우기 : 전화번호 /(\(?\d{2,3}\)?[- .]?)?\d{3}[- .]?\d{3,4}[- .]?\d{4}[- .]?/
 * 2020/12/14 월
