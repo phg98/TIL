@@ -24,7 +24,9 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
-
+* 2021/03/02 화
+  * [ ] react 배우기 https://ko.reactjs.org/docs/conditional-rendering.html
+    * element 변수, 조건부 
 * 2021/03/01 월
   * [ ] react 배우기 https://ko.reactjs.org/docs/components-and-props.html
     * props : constructor(props){super(props)} <h1>name={props.name}
