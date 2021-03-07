@@ -24,11 +24,15 @@ Today I Learned...
     * [ ] 백트래킹
     
 ## TIL
+* 2021/03/07 일
+  * regex : https://regexone.com/problem/matching_decimal_numbers
+  * css : https://cssbattle.dev/play/13
+  * [ ] react 배우기
 * 2021/03/02 화
-  * [ ] react 배우기 https://ko.reactjs.org/docs/conditional-rendering.html
+  * [x] react 배우기 https://ko.reactjs.org/docs/conditional-rendering.html
     * element 변수, 조건부 
 * 2021/03/01 월
-  * [ ] react 배우기 https://ko.reactjs.org/docs/components-and-props.html
+  * [x] react 배우기 https://ko.reactjs.org/docs/components-and-props.html
     * props : constructor(props){super(props)} <h1>name={props.name}
     * state : constructor(){this.state={name:'Harry'}}, componentDidMount(), componentWillUnmount(), this.setState({name:'newName'})
     * https://ko.reactjs.org/docs/handling-events.html 여기까지
